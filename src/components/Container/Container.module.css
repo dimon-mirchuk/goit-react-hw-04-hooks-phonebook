@@ -1,0 +1,9 @@
+.container {
+  max-width: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  padding: 10px;
+  background-color: rgba(82, 190, 87, 0.336);
+  border-radius: 7px;
+}
